@@ -1,0 +1,45 @@
+{
+    "title": "TypeScript: The Vue Parts",
+    "videos": [
+        {
+            "title": "Which Vue Developers should learn TypeScript? - TypeScript: The Vue Parts, Part 1",
+            "likes": 90,
+            "dislikes": 0,
+            "views": 3124,
+            "thumbnail": "https://i.ytimg.com/vi_webp/O9QSg09c2xw/maxresdefault.webp",
+            "url": "https://www.youtube.com/watch?v=O9QSg09c2xw"
+        },
+        {
+            "title": "Installing TypeScript, Transpiling and Watching Files - TypeScript: The Vue Parts, Part 2",
+            "likes": 28,
+            "dislikes": 0,
+            "views": 1284,
+            "thumbnail": "https://i.ytimg.com/vi_webp/9Alv7OWhe-Y/maxresdefault.webp",
+            "url": "https://www.youtube.com/watch?v=9Alv7OWhe-Y"
+        },
+        {
+            "title": "Introduction to TypeScript\u2019s Types -- TypeScript: The Vue Parts, Part 3",
+            "likes": 40,
+            "dislikes": 0,
+            "views": 1008,
+            "thumbnail": "https://i.ytimg.com/vi_webp/MLByx8BjjxA/maxresdefault.webp",
+            "url": "https://www.youtube.com/watch?v=MLByx8BjjxA"
+        },
+        {
+            "title": "A Quick Tour of TypeScript\u2019s Basic Types-- TypeScript: The Vue Parts, Part 4",
+            "likes": 20,
+            "dislikes": 0,
+            "views": 843,
+            "thumbnail": "https://i.ytimg.com/vi/co2SnMbKjv0/maxresdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=co2SnMbKjv0"
+        },
+        {
+            "title": "Custom Types and Literal Types - TypeScript: The Vue Parts, Part 6",
+            "likes": 35,
+            "dislikes": 0,
+            "views": 1865,
+            "thumbnail": "https://i.ytimg.com/vi_webp/0dFm9h3tjs0/maxresdefault.webp",
+            "url": "https://www.youtube.com/watch?v=0dFm9h3tjs0"
+        }
+    ]
+}
