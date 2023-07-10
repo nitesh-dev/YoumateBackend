@@ -36,11 +36,13 @@ def getVideoDetails(url = ''):
             videoFormat.url = format.get('url', '')
             videoFormat.quality = format.get('format_note', '')
             videoFormat.format = format.get('ext', '')
-            videoFormat.size = format.get('filesize', 0)
+            videoFormat.size = format.get('filesize', None)
 
+
+                
             # adding download and filtering biased on qualities
             for quality in qualities:
-                if videoFormat.quality.find(quality) != -1 and videoFormat.size != 0 :
+                if videoFormat.quality.find(quality) != -1 and videoFormat.size != None:
                     videoDetail.downloads.append(videoFormat)
                     break
             
