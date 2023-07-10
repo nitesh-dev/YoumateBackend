@@ -45,7 +45,7 @@ def getVideoDetails(url = ''):
                     break
             
 
-        print(json.dumps(videoDetail.toDict()))
+        return json.dumps(videoDetail.toDict())
 
 
 def getPlaylist(url = ''):
@@ -84,7 +84,7 @@ def getPlaylist(url = ''):
 
             playlist.videos.append(playlistVideo)
         
-        print(json.dumps(playlist.toDict())) 
+        return json.dumps(playlist.toDict())
 
 
 
